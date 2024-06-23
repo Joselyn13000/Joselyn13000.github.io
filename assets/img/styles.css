@@ -1,0 +1,101 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background: lightgray;
+}
+
+#container{
+  width: 1100px;
+  margin: 0px auto;
+}
+
+body {
+  height: 100%;
+  background-image: url('/img/verde_esmeralda.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999; /* Color de fondo de respaldo */
+}
+
+
+
+
+header{
+  
+  background: rgb(83, 0, 13);
+  height: 100px;
+  width: 100%;
+  margin: 0;
+  margin-top: 2%;
+  text-align: center;
+  line-height: 100px;
+  color: whitesmoke;
+  border-bottom: 2px dashed black;
+}
+
+nav{
+
+  background: rgb(255, 52, 92);
+  height: 60px;
+  line-height: 30px;
+  border-bottom: 1px solid black;
+}
+
+nav ul li{
+  float: left;
+  list-style: none;
+  margin: 10px;
+}
+
+.clearfix{
+  clear: both;
+}
+
+#content{
+  
+ 
+  font-size: 18px;
+  float: left;
+  width: 70%;
+  min-height: 30px;
+  background: rgba(81, 160, 97, 0.738);
+  text-align: center;
+}
+
+aside{
+  
+  float: right;
+  margin-top: -294px;
+  width: 30%;
+  margin-left: 3%;
+  min-height: 294px;
+  background: rgba(137, 197, 137, 0.851);
+  text-align: center;
+}
+
+footer{
+ 
+  background: black;
+  color: whitesmoke;
+  text-align: center;
+  height: 55px;
+  line-height: 60px;
+}
+
+.imagencita{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 10%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.7);
+
+}
