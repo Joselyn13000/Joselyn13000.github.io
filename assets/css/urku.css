@@ -1166,7 +1166,7 @@ body {
 }
 
 .item-1 {
-  background-image: url("../img/libro1.jpeg");
+  background-image: url("../img/carmilla1.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-1 {
@@ -1175,19 +1175,19 @@ body {
 }
 
 .item-2 {
-  background-image: url("../img/libro2.jpeg");
+  background-image: url("../img/latidos.jpg");
 }
 
 .item-3 {
-  background-image: url("../img/libro3.jpeg");
+  background-image: url("../img/doctor2.jpg");
 }
 
 .item-4 {
-  background-image: url("../img/libro4.jpeg");
+  background-image: url("../img/draculis2.jpg");
 }
 
 .item-5 {
-  background-image: url("../img/l16.jpg");
+  background-image: url("../img/invisible2.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-5 {
@@ -1196,7 +1196,7 @@ body {
 }
 
 .item-6 {
-  background-image: url("../img//lll6.jpg");
+  background-image: url("../img/miss3.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-6 {
@@ -1205,19 +1205,19 @@ body {
 }
 
 .item-7 {
-  background-image: url("../img/l7.jpg");
+  background-image: url("../img/diario.jpg");
 }
 
 .item-8 {
-  background-image: url("../img/l8.jpg");
+  background-image: url("../img/niño.jpg");
 }
 
 .item-9 {
-  background-image: url("../img/l9.jpg");
+  background-image: url("../img/donde.jpg");
 }
 
 .item-10 {
-  background-image: url("../img/l10.jpg");
+  background-image: url("../img/negritos3.jpg");
 }
 
 .item-11 {
@@ -1241,11 +1241,11 @@ body {
 }
 
 .item-14 {
-  background-image: url("../img/l14.jpg");
+  background-image: url("../img/aqui.jpg");
 }
 
 .item-15 {
-  background-image: url("../img/l15.jpg");
+  background-image: url("../img/the\ 100.jpg");
 }
 
 @media (min-width: 40em) {
